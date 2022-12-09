@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@jaredpalmer/after": "latest",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "razzle": "^2.4.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
